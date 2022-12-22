@@ -1,6 +1,6 @@
 #include<stdio.h>  
 void main()  
 { 
-     printf("Name : John");   
+     printf("Name : navya");   
      getch();  //to add a Pause  
 }
